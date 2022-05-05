@@ -12,16 +12,16 @@ This is a public dataset named Million Song Dataset and can be downloaded under 
 ## To access the dataset:
 Dataset is available on S3 and can be accessed as below:
 
-### Create spark session
+### Step1: Create spark session
 spark = SparkSession \
     .builder \
     .appName("Sparkify") \
     .getOrCreate()
 
-#### Read in full sparkify dataset
+#### Step2: Read in sparkify dataset
 full_data = "s3n://udacity-dsnd/sparkify/sparkify_event_data.json"
-
 mini_data = "s3n://udacity-dsnd/sparkify/mini_sparkify_event_data.json"
+
 df = spark.read.json(full_data)
 
 
