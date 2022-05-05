@@ -6,6 +6,10 @@ program at the Carlson School of Management, University of Minnesota
 # Project Description
 The objective of this project is to predict “customer churn” which is if a listener is likely to cancel their subscription. Our goal is to identify these customers via their interactions with the website. The dataset contains 18 features which can be used to predict the probability of churn. 
 
+# Project Process
+![alt text](https://github.com/yufanlifrieda/MSBA6330TrendsMarket/blob/main/Group%209%20-%20Flyer.pdf)
+
+
 # Data description: 
 This is a public dataset named Million Song Dataset and can be downloaded under json format prepared by Udacity. It contains 18 columns which have the information of customers(gender, name, etc.) and API events(login, playing next song, etc.) The experiment period is from 2018–10–01 to 2018–12–01. The data set is a 12 GB user log data which is hosted on a AWS S3 repository.  
 
