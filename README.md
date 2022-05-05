@@ -28,6 +28,8 @@ mini_data = "s3n://udacity-dsnd/sparkify/mini_sparkify_event_data.json"
 
 df = spark.read.json(full_data)
 
+## EDA for the dataset through dasboard
+![alt text](https://github.com/yufanlifrieda/MSBA6330TrendsMarket/blob/main/Project%20Structure%20%26%20EDA/Dashboard.jpg)
 
 
 # Target audience: 
