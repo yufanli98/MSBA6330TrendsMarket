@@ -12,7 +12,7 @@ This is a public dataset named Million Song Dataset and can be downloaded under 
 ## To access the dataset:
 Dataset is available on S3 and can be accessed as below:
 
-### Step1: Create spark session
+#### Step1: Create spark session
 spark = SparkSession \
     .builder \
     .appName("Sparkify") \
