@@ -14,9 +14,9 @@ Dataset is available on S3 and can be accessed as below:
 
 #### Step1: Create spark session
 spark = SparkSession \
-    .builder \
-    .appName("Sparkify") \
-    .getOrCreate()
+         .builder \
+         .appName("Sparkify") \
+         .getOrCreate()
 
 #### Step2: Read in sparkify dataset
 full_data = "s3n://udacity-dsnd/sparkify/sparkify_event_data.json"
