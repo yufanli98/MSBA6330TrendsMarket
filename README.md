@@ -19,8 +19,9 @@ spark = SparkSession \
     .getOrCreate()
 
 #### Read in full sparkify dataset
-link = "s3n://udacity-dsnd/sparkify/sparkify_event_data.json"
-df = spark.read.json(link)
+full_data = "s3n://udacity-dsnd/sparkify/sparkify_event_data.json"
+mini_data = "s3n://udacity-dsnd/sparkify/mini_sparkify_event_data.json"
+df = spark.read.json(full_data)
 
 
 
