@@ -7,7 +7,7 @@ program at the Carlson School of Management, University of Minnesota
 The objective of this project is to predict “customer churn” which is if a listener is likely to cancel their subscription. Our goal is to identify these customers via their interactions with the website. The dataset contains 18 features which can be used to predict the probability of churn. 
 
 # Project Process
-![alt text](https://github.com/yufanlifrieda/MSBA6330TrendsMarket/blob/main/Group%209%20-%20Flyer.pdf)
+![alt text](https://github.com/yufanlifrieda/MSBA6330TrendsMarket/blob/main/Flyer/Group%209%20-%20Flyer-1.jpg)
 
 
 # Data description: 
