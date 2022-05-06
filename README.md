@@ -49,10 +49,10 @@ Visualization: AWS quicksight
 # Reference
 1.https://github.com/CapAllen/Sparkify<br>
 2.https://medium.com/@olivier.klein/sparkify-udacity-data-scientist-nanodegree-capstone-project-65e3181ea2b0<br>
-3.https://github.com/Tselmeg-C/Churn_prediction_Udacity_Capstone
-4.https://www.brid.tv/ott-statistics-for-2021-infographic/
-5.https://www.statista.com/outlook/amo/media/tv-video/ott-video/worldwide
-6.https://www.parksassociates.com/blog/article/pr-12152021
+3.https://github.com/Tselmeg-C/Churn_prediction_Udacity_Capstone<br>
+4.https://www.brid.tv/ott-statistics-for-2021-infographic/<br>
+5.https://www.statista.com/outlook/amo/media/tv-video/ott-video/worldwide<br>
+6.https://www.parksassociates.com/blog/article/pr-12152021<br>
 7.https://dazeinfo.com/2021/09/22/adoption-of-ott-in-us-over-82-million-households-streamed-ott-content-june-2021/
 
 
