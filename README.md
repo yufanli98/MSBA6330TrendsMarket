@@ -43,11 +43,11 @@ df = spark.read.json(full_data)
 The target audience of our analysis would be digital music service firms and their stakeholders who would be interested in preventing customer churn. 
 
 # Big Data Tools Used: 
-Ingestion, ETL, exploration, Analysis: AWS S3, Databricks(Spark)
+Ingestion, ETL, exploration, Analysis: AWS S3, Databricks(Spark)<br>
 Visualization: AWS quicksight
 
 # Reference
-1.https://github.com/CapAllen/Sparkify
+1.https://github.com/CapAllen/Sparkify<br>
 2.https://medium.com/@olivier.klein/sparkify-udacity-data-scientist-nanodegree-capstone-project-65e3181ea2b0
 
 
