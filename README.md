@@ -47,7 +47,8 @@ Ingestion, ETL, exploration, Analysis: AWS S3, Databricks(Spark)<br>
 Visualization: AWS quicksight
 
 # Instructions to run the scripts
-**Sparkify_code.ipynb** is the first script that needs to be run. This script performs the **data pre-processing, feature engineering & model building**. **Stream.ipynb** is the second script that has to be run. It assumes that the customer churn model is already built from the previous script & **implements streaming analysis** using the churn model.
+**Sparkify_code.ipynb** is the first script that needs to be run. This script performs the **data pre-processing, feature engineering & model building**.<br> 
+**Stream.ipynb** is the second script that has to be run. It assumes that the customer churn model is already built from the previous script & **implements streaming analysis** using the churn model.
 
 # Reference
 1.https://github.com/CapAllen/Sparkify<br>
