@@ -46,7 +46,9 @@ The target audience of our analysis would be digital music service firms and the
 Ingestion, ETL, exploration, Analysis: AWS S3, Databricks(Spark)
 Visualization: AWS quicksight
 
-
+# Reference
+1.https://github.com/CapAllen/Sparkify
+2.https://medium.com/@olivier.klein/sparkify-udacity-data-scientist-nanodegree-capstone-project-65e3181ea2b0
 
 
 
