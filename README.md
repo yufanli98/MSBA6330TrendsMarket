@@ -48,7 +48,7 @@ Visualization: AWS quicksight
 
 # Reference
 1.https://github.com/CapAllen/Sparkify<br>
-2.https://medium.com/@olivier.klein/sparkify-udacity-data-scientist-nanodegree-capstone-project-65e3181ea2b0
+2.https://medium.com/@olivier.klein/sparkify-udacity-data-scientist-nanodegree-capstone-project-65e3181ea2b0<br>
 3.https://github.com/Tselmeg-C/Churn_prediction_Udacity_Capstone
 
 
